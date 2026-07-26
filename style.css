@@ -76,7 +76,7 @@ section{
     margin-top:25px;
     box-shadow:0 10px 25px rgba(0,0,0,.08);
 }
-.nav {
+.navbar {
     list-style: none;
     display: flex;
     justify-content: center;
@@ -86,13 +86,13 @@ section{
     margin: 0;
 }
 
-.nav li a {
+.navbar li a {
     text-decoration: none;
     color: black;
     font-size: 18px;
     font-weight: bold;
 }
 
-.nav li a:hover {
+.navbar li a:hover {
     color: #2563eb;
 }
