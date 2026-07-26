@@ -78,10 +78,10 @@ section{
 .navbar {
     list-style: none;
     display: flex;
-    justify-content: center;
-    align-items: center;
+    justify-content: left;
+    align-items: left;
     gap: 25px;
-    padding: 15px;
+    padding: 0px;
     margin: 0;
 }
 
@@ -89,10 +89,10 @@ section{
     text-decoration: none;
     color: black;
     font-size: 18px;
-    font-weight: bold;
+    font-weight: none;
     border-radius:none;
 }
 
 .navbar li a:hover {
-    color: #2563eb;
+    color:black;
 }
