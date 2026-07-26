@@ -50,16 +50,16 @@ li{
     background:white;
     margin:10px 0;
     padding:12px;
-    border-radius:0px;
+    border-radius:none;
     box-shadow:0 3px 10px rgba(0,0,0,.08);
 }
 
 a{
-    color:white;
+    color:black;
     background:white;
     text-decoration:none;
     padding:12px 22px;
-    border-radius:8px;
+    border-radius:none;
     display:inline-block;
     margin-top:20px;
     transition:.3s;
