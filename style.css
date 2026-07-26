@@ -80,13 +80,13 @@ section{
     display: flex;
     justify-content: left;
     align-items: left;
-    gap: 25px;
-    padding: 0px;
-    margin: 0;
+    gap: 15px;
+    padding: none;
+    margin: none;
 }
 
 .navbar li a {
-    text-decoration: none;
+    text-decoration: black;
     color: black;
     font-size: 18px;
     font-weight: none;
