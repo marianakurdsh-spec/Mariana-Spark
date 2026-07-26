@@ -91,6 +91,7 @@ section{
     color: black;
     font-size: 18px;
     font-weight: bold;
+    border-radius:none;
 }
 
 .navbar li a:hover {
