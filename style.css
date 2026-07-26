@@ -21,8 +21,8 @@ body{
 }
 
 h1{
-    color:#2563eb;
-    font-size:48px;
+    color:black;
+    font-size:20px;
     margin-bottom:10px;
 }
 
@@ -33,12 +33,12 @@ h2{
 
 h3{
     color:#2563eb;
-    margin-top:35px;
+    margin-top:15px;
     margin-bottom:10px;
 }
 
 p{
-    font-size:18px;
+    font-size:10px;
     margin-bottom:15px;
 }
 
@@ -50,13 +50,13 @@ li{
     background:white;
     margin:10px 0;
     padding:12px;
-    border-radius:10px;
+    border-radius:0px;
     box-shadow:0 3px 10px rgba(0,0,0,.08);
 }
 
 a{
     color:white;
-    background:#2563eb;
+    background:white;
     text-decoration:none;
     padding:12px 22px;
     border-radius:8px;
