@@ -1,3 +1,4 @@
 # mariana-portfolio-
-Professional portfolio showcasing my web development, programming, and software projects.
+ my web development, programming, and software projects.
+<br>
 mariana
