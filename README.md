@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mariana Spark
+# 👋 Hi, I'm Mariana 
 
 Welcome to my GitHub portfolio!
 
