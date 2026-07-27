@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mariana 
+# 👋greetings, I'm Mariana 
 
 Welcome to my GitHub portfolio!
 
