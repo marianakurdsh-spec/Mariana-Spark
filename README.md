@@ -1,7 +1,7 @@
 # 👋greetings, I'm Mariana 
 
 Welcome to my GitHub portfolio!
-
+HTML • CSS • JavaScript
 Here you'll find:
 
 - 🌐 My first website
